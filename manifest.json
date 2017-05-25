@@ -1,1 +1,13 @@
-
+{
+    "name": "Sub Eye Timer",
+    "description": "A nice way to regulate computer time.",
+    "omnibox": {
+      "keyword": "eye"
+          },
+    "background": {
+      "scripts": ["timer.js"]
+    },
+    "version": "1.0",
+    "minimum_chrome_version": "9",
+    "manifest_version": 2
+  }
